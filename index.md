@@ -2,7 +2,7 @@
 
 ### Privacy Policy
 
-SomeDeveloper built the [MyApp] app as a Commercial app. This SERVICE is provided by SomeDeveloper and is intended for use as is.
+Sergey Biryukov built the Sales Manadger app as a Commercial app. This SERVICE is provided by Sergey Biryukov and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
