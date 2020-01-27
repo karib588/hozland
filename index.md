@@ -1,8 +1,8 @@
-## Sales Manadger project 
+## Торговый агент (hozland)  project 
 
 ### Privacy Policy
 
-Sergey Biryukov built the Sales Manadger app as a Commercial app. This SERVICE is provided by Sergey Biryukov and is intended for use as is.
+Stanislav Bakhtihozin built the Sales Manadger app as a Commercial app. This SERVICE is provided by Stanislav Bakhtihozin and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -58,8 +58,8 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
-Sergey Biryukov
-emai: Sergeyvbir@gmail.com
+Stanislav Bakhtihozin
+emai: market@hoz.land
 
 
       
